@@ -91,7 +91,7 @@ extern string REQUEST_HASH;
 extern string THREAD_HASH;
 extern string BUILD_TYPE;
 extern int64_t USER_ID;
-extern int64_t MONTAGE_ID;
+extern string  MONTAGE_ID;
 extern int64_t BUILD_ID;
 extern int64_t NTHREADS;
 extern mutex   LOG_IO;
